@@ -11,7 +11,7 @@ namespace GESTIONhopital.Models
         public DbSet<Medcin> medcins { get; set; }
         public DbSet<passion> passions { get; set; }
         public DbSet<rendez_vous> rendez_Vous { get; set; }
-        public DbSet<dossiermedical> dossiermedicals { get; set; }
+       
  
 
 
